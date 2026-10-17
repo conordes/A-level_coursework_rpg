@@ -1,0 +1,4 @@
+﻿'(mission name)\(enemy to kill)\(amount of enemy to kill)\(reward)\(amount of reward)
+kill 5 goblins/goblin/5/hp_potion/3
+kill the spider/spider/1/body_armour/1
+kill 5 warlocks/warlock/5/mana_potion/3

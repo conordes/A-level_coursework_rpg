@@ -1,0 +1,16 @@
+﻿1=potion,               2nd=weapon, 3rd=armour or equipment
+0:type		            0:range
+1:hp add                1:damg
+2:mana add           2:silence
+
+----------------------------
+hp_potion/1/10/0/0/0
+mana_potion/1/0/20/0/0
+----------------------------
+sword/2/5/5/0/50
+shield/2/6/10/5/0
+broken_shield/4/0/0/0/0
+---------------------------
+helmet/3/0/10/5/50
+body_armour/3/1/10/5/40
+player_eye/3/0/1000/500/50000
